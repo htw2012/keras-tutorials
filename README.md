@@ -4,3 +4,4 @@
  
 ## Content
 1. debug tools
+ You can use every layer as a function.
